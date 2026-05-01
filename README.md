@@ -104,7 +104,7 @@ Prerequisites:
 Installation:
 
 1. Clone the repository:
-   git clone https://github.com/[your-username]/data-insight-agent
+   git clone https://github.com/ryanvarghese/data-insight-agent
    cd data-insight-agent
 
 2. Install dependencies:
