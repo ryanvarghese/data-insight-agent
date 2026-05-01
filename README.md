@@ -105,18 +105,19 @@ Installation:
 
 1. Clone the repository:
    git clone https://github.com/ryanvarghese/data-insight-agent
-   cd data-insight-agent
 
-2. Install dependencies:
+   run command: cd data-insight-agent
+
+3. Install dependencies:
    pip install -r requirements.txt
 
-3. Create a .env file in the root folder:
+4. Create a .env file in the root folder:
    ANTHROPIC_API_KEY=your_api_key_here
 
-4. Run the app:
+5. Run the app:
    streamlit run app.py
 
-5. Open your browser at:
+6. Open your browser at:
    http://localhost:8501
 
 Supported File Formats:
