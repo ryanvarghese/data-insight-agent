@@ -122,8 +122,6 @@ Installation:
 Supported File Formats:
 - CSV (.csv)
 - Excel (.xlsx)
-- Maximum recommended size: 50,000 rows
-  (larger datasets are automatically sampled)
 
 ---
 
@@ -287,10 +285,6 @@ Transparent reasoning chain
   supported
 - Analysis quality depends on dataset having
   meaningful datetime and categorical columns
-- Browser refresh requires clicking Run Analysis
-  twice on first run after refresh — known
-  Streamlit session_state behaviour
-
 ---
 
 ## Potential Next Steps
